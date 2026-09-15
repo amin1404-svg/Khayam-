@@ -1,0 +1,6 @@
+{
+  "name": "عسل ساوالان",
+  "description": "اپلیکیشن فروشگاهی حرفه‌ای، فارسی و RTL عسل طبیعی ساوالان برای خرید مستقیم از زنبوردار، پیگیری سفارش و پنل مدیریت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
